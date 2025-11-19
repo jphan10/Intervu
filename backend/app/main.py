@@ -1,6 +1,5 @@
 # FastAPI implementation
 from fastapi import FastAPI
-import dotenv
 
 # Instantiate api isntance
 app = FastAPI()
